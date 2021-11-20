@@ -18,3 +18,6 @@ analyse the various aspects of movies.
 
 Code output is shown in the Jupyter notebooks. Notebooks where output is saved into system, additional
 images are attached and can be viewed separately.
+
+**Note: Code that is adopted from existing code is referenced within the Jupyter notebook (where
+necessary)
