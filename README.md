@@ -2,8 +2,8 @@
 Understanding Movies through Multi-Modal Data Analysis
 
 Studying movies via multiple modalities including metadata, visual, audio, and textual. The series of
-Jupyter notebooks provides examples of machine learning, NLP, and audio models that can be used to 
-analyse the various aspects of movies.
+Jupyter notebooks provides demonstration of the usage of machine learning algorithms, NLP, and Python 
+modules to analyse the various aspects present in movies.
 
 1) **Visual Features**
 - Colour palettes (frame level features only)
