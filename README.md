@@ -27,4 +27,4 @@ Code output is shown in the attached notebook files. Notebooks where output is s
 additional images are attached and can be viewed separately.
 
 *Note: Code that is adopted from existing code is referenced within the notebook (where
-necessary)
+necessary)*
