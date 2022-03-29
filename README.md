@@ -26,5 +26,5 @@ The following movie aspects are studied in detail:
 Code output is shown in the attached notebook files. Notebooks where output is saved into system, 
 additional images are attached and can be viewed separately.
 
-**Note: Code that is adopted from existing code is referenced within the notebook (where
+*Note: Code that is adopted from existing code is referenced within the notebook (where
 necessary)
