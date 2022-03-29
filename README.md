@@ -23,6 +23,8 @@ The following movie aspects are studied in detail:
 - Sentiment analysis 
 - Word cloud
 
+4) **Metadata Features**
+
 Code output is shown in the attached notebook files. Notebooks where output is saved into system, 
 additional images are attached and can be viewed separately.
 
