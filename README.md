@@ -6,8 +6,8 @@ notebooks provides demonstration of the usage of machine learning algorithms, NL
 Python modules to analyse the various aspects present in movies.
 
 **Data pre-processing**: Movie footages, movie posters, and movie subtitles are downloaded directly, while 
-movie audio and movie text are extracted from movie footages and movie subtitles using external 
-Python modules
+movie audio and movie text are extracted from movie footages and movie subtitles respectively using 
+external Python modules
 
 The following movie aspects are studied in detail:
 
